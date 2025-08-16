@@ -56,6 +56,15 @@ terraform apply -var-file="terraform.tfvars"
 
 ---
 
+## 🧩 Recommended VS Code Extensions
+
+To improve your experience writing Terraform scripts in Visual Studio Code, consider installing these extensions:
+
+- [**Terraform Extension for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=hashicorp.terraform) – Official HashiCorp extension with syntax highlighting, linting, and autocompletion.
+- [**HCL Extension for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=wholroyd.HCL) – Provides support for HashiCorp Configuration Language (HCL), used in Terraform modules and configuration.
+
+---
+
 ## 🤝 Contributions
 
 Feel free to fork and extend the examples to suit your infrastructure needs. Suggestions and pull requests are welcome!
